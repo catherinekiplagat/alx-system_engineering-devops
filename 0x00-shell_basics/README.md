@@ -1,1 +1,3 @@
-Display the contents list of your current directory
+Display current directory content including hidden fi
+
+les starting with .
