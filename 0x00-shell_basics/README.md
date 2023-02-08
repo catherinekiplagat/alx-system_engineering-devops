@@ -1,3 +1,1 @@
-Display current directory content including hidden fi
-
-les starting with .
+Display directory contents in long format with user and group IDs displayed numerically and hidden files starting with .
