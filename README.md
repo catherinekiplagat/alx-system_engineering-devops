@@ -1,1 +1,1 @@
-Task 8 bye bye betty
+Task 8 bye bye my first directory
