@@ -1,1 +1,1 @@
-Add /action to the PATH. /action should be the last directory the shell
+script that counts the number of directories in the PATH
